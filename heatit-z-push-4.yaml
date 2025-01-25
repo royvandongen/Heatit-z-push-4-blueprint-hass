@@ -1,6 +1,6 @@
 blueprint:
-  name: Z-Wave JS - Heatit Z Push Button 8
-  description: 'Create automations for Heatit 8-Button Wall Controller [HEATIT-ZPUSH8](https://documents.heatit.com/4512581)
+  name: Z-Wave JS - Heatit Z Push Button 4
+  description: 'Create automations for Heatit 8-Button Wall Controller [HEATIT-ZPUSH4](https://documents.heatit.com/4512581)
     using the Z-Wave JS integration.
 
     The buttons are labelled assuming the LED is positioned at the top of the device.
